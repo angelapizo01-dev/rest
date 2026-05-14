@@ -1,0 +1,58 @@
+# Sistema Restaurante PHP
+
+Sistema de gestión de restaurante desarrollado en **PHP puro**, utilizando **MySQL**, **HTML**, **CSS** y **JavaScript**.
+
+Este proyecto permite administrar diferentes módulos de un restaurante como:
+
+- Menú
+- Pedidos
+- Reservas
+- Usuarios
+
+---
+
+# Características
+
+- Gestión de menú
+- Registro de pedidos
+- Administración de reservas
+- Sistema de usuarios
+- Conexión a base de datos MySQL
+- Interfaz web sencilla
+- Control de versiones con Git y GitHub
+
+---
+
+# Tecnologías utilizadas
+
+- PHP
+- MySQL
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+
+---
+
+# Estructura del proyecto
+
+```text
+sistema-restaurante/
+│
+├── index.php
+├── conexion.php
+├── menu.php
+├── pedidos.php
+├── reservas.php
+├── usuarios.php
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── app.js
+│
+├── img/
+│
+└── README.md
